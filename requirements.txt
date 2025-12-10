@@ -1,8 +1,5 @@
-streamlit==1.38.0
-requests==2.32.3
-pandas==2.2.3
-altair==5.4.1
-python-dateutil==2.9.0.post0
-pyarrow==16.1.0
-watchdog==4.0.2
-python-dotenv==1.0.1
+streamlit
+pandas
+altair
+requests
+python-dotenv
